@@ -1,2 +1,2 @@
 # code-sample
-Repository aimed to store independent code samples
+Repository designed to store standalone code samples.
