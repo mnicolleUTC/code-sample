@@ -1,6 +1,4 @@
 # Python program to mail merger
-
-# open names.txt for reading
 with open("names.txt", 'r', encoding='utf-8') as names_file:
 
     # open body.txt for reading
